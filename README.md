@@ -1,2 +1,2 @@
 # Reorder
-Reorder some Maxima output for TeX imput.  Written in C.
+Reorder some Maxima output for TeX input.  Written in C.
